@@ -18,3 +18,6 @@ if name == 'main':
         print("Weird")
     else:
         print("Not Weird")
+
+        
+   #https://github.com/dabeet-lucifer/hackerrank_python
